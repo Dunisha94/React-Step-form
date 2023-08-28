@@ -1,2 +1,2 @@
 # React-Step-form
-React MUI Step form with redux
+React MUI Step form
